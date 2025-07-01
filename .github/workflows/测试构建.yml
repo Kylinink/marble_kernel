@@ -35,7 +35,7 @@ jobs:
       - name: Checkout kernel source
         uses: actions/checkout@v4
         with:
-          repository: Guxin12/marble_kernel
+          repository: Death8023/marble_kernel
           ref: Glow
           path: kernel
           fetch-depth: 0
